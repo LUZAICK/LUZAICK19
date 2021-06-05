@@ -34,8 +34,8 @@
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/sanzorez/selfsanz
-> cd sabot
+> git clone https://github.com/LUZAICK/LUZAICK19
+> cd LUZAICK19
 > npm cache clear
 > bash install.sh
 > npm audit fix
